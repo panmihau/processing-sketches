@@ -31,8 +31,8 @@ static class TileParams {
 ArrayList<TriangleCutRectTile> tiles = new ArrayList<TriangleCutRectTile>();
 
 void setup() {
-  //size(500, 500);  
-  fullScreen();
+  size(500, 500);  
+  //fullScreen();
   noFill();
   strokeWeight(1);
   background(255);
