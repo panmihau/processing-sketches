@@ -6,4 +6,4 @@ A sketch which creates patterns based on two grids of square tiles. The two grid
 
 ![Sample 1](https://github.com/panmihau/processing-sketches/blob/master/TriangleCut_clickable/attachments/sample-result-1.png)
 
-![Sample 2](https://github.com/panmihau/processing-sketches/blob/master/TriangleCut_clickable/attachments/sample-result-1.png)
+![Sample 2](https://github.com/panmihau/processing-sketches/blob/master/TriangleCut_clickable/attachments/sample-result-2.png)
