@@ -1,7 +1,7 @@
-#TriangleCut_shades
+# TriangleCut_shades
 The same pattern generation algorithm as in [TriangleCut_clickable](https://github.com/panmihau/processing-sketches/tree/master/TriangleCut_clickable). Here the patterns are generated automatically on top of the previous ones and gradually fade away.
 
-##Sample results
+## Sample results
 
 Example 1:
 
